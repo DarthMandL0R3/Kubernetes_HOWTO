@@ -320,3 +320,8 @@ Get updates
 ```
 az aks get-upgrades --resource-group <Resource Group Name> --name <AKS Name>
 ```
+
+## References
+```
+https://github.com/RehanSaeed/Kubernetes-Cheat-Sheet
+```
